@@ -1,6 +1,5 @@
 ---
 permalink: /
-permalink: /about/
 title: "Xiangheng Jiang"
 excerpt: "About me"
 author_profile: true
