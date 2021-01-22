@@ -1,11 +1,13 @@
 ---
+permalink: /
+title: "Xiangheng Jiang"
+excerpt: "About me"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-# Xiangheng Jiang
 - Email: jiangxiangheng\[at]gmail\[dot]com
 - Major: Control Science and Engineering
 - Github: https://github.com/j1o2h3n
