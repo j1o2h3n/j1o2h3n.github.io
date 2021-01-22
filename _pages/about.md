@@ -20,7 +20,9 @@ I am a second-year M.S. student in the Beijing Institute of Artificial Intellige
 
 Prior to that, I got my bachelor s degree from the School of Electronic Science and Control Engineering, Institute of Disaster Prevention, in 2019.
 
-My research interests include Graph Neural Network and Intelligent Transportation.
+I have studied majors: Electrical Engineering and Automation, Geology.
+
+Now, my research interests include Graph Neural Network and Intelligent Transportation.
 
 In my daily life, I like to play badminton and swimming.
 
@@ -32,3 +34,5 @@ Programming Language: Python, C, C++, etc.
 Hardware: 89C51 MCU, STM32 MCU, Raspberry Pi, Altium Designer, etc.
 
 Framework: PyTorch, OpenCV, etc.
+
+Operation System: Windows, Linux, etc.
