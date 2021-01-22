@@ -1,16 +1,23 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
+excerpt: "publications"
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## **Dual Dynamic Spatial-Temporal Graph Convolution Network for Traffic Prediction**
 
-{% include base_path %}
+Yanfeng Sun, **_Xiangheng Jiang**, Yongli Hu, Kan Guo, Boyue Wang, Junbin Gao, Baocai Yin.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+_30th International Joint Conference on Artificial Intelligence (IJCAI-2021)_  \[under review]
+
+
+## **Research on Low-Quality Finger Vein Image Recognition Algorithm**
+
+Jianxian Cai, Xiang Wang, **_Xiangheng Jiang**, Shuangshuang Gao, Jin Peng.
+
+_International Conference on Smart Multimedia 2019 (ICSM-2019)_  \[accept]
+
