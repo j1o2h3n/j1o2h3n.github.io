@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Xiangheng Jiang"
 excerpt: "About me"
 author_profile: true
