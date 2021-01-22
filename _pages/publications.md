@@ -2,8 +2,6 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications.html
 ---
 
 ## **Dual Dynamic Spatial-Temporal Graph Convolution Network for Traffic Prediction**
