@@ -5,12 +5,12 @@ main:
  
   - title: "Publications"
     url: /publications/
+        
+  - title: "Awards"
+    url: /awards/
     
   - title: "Projects"
     url: /projects/
-    
-  - title: "Awards"
-    url: /awards/
   
 #   - title: "Teaching"
 #     url: /teaching/    
