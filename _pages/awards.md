@@ -2,8 +2,6 @@
 title: "Awards"
 permalink: /awards/
 author_profile: true
-redirect_from: 
-  - /awards.html
 ---
 
 - \[2016] Undergraduate Physical Experiment Competition of Beijing, Second Prize.
