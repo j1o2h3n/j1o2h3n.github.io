@@ -4,10 +4,10 @@ permalink: /awards/
 author_profile: true
 ---
 
-- \[2020] Postgraduate scholarships.
-- \[2019] Outstanding undergraduate graduation thesis Award.
-- \[2019] Hebei "Challenge Cup" Competition, Second Prize.
-- \[2018] China Robotics Competition, First Prize.
-- \[2018] National Undergraduate Intelligent Interconnection Innovation Competition, Second Prize.
-- \[2017 and 2018] International Underwater Robot Competition, Championship.
-- \[2016] Undergraduate Physical Experiment Competition of Beijing, Second Prize.
+- \[_2020_] Postgraduate scholarships.
+- \[_2019_] Outstanding undergraduate graduation thesis Award.
+- \[_2019_] Hebei "Challenge Cup" Competition, Second Prize.
+- \[_2018_] China Robotics Competition, First Prize.
+- \[_2018_] National Undergraduate Intelligent Interconnection Innovation Competition, Second Prize.
+- \[_2017 and 2018_] International Underwater Robot Competition, First Prize.
+- \[_2016_] Undergraduate Physical Experiment Competition of Beijing, Second Prize.
