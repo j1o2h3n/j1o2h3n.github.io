@@ -17,7 +17,7 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
   <img width="558" height="245" src=../images/(2D)2FPCA.png>
 </p>
 
-![avatar](../images/(2D)2FPCA.png)
+![avatar](../images/(2D)2FPCA.png=558x245)
 
 
 ## Finger vein
