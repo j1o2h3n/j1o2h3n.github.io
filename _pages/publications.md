@@ -6,14 +6,14 @@ author_profile: true
 
 ## **Dual Dynamic Spatial-Temporal Graph Convolution Network for Traffic Prediction**
 
-Yanfeng Sun, _**Xiangheng Jiang**_, Yongli Hu, Kan Guo, Boyue Wang, Junbin Gao, Baocai Yin.
+Y.Sun, _**X.Jiang**_, Y.Hu, K.Guo, B.Wang, J.Gao, B.Yin.
 
 _30th International Joint Conference on Artificial Intelligence  (IJCAI-2021)_ &nbsp; \[under review]
 
 
 ## **Research on Low-Quality Finger Vein Image Recognition Algorithm**
 
-Jianxian Cai, Xiang Wang, _**Xiangheng Jiang**_, Shuangshuang Gao, Jin Peng.
+J.Cai, X.Wang, _**X.Jiang**_, S.Gao, J.Peng.
 
 _International Conference on Smart Multimedia 2019  (ICSM-2019)_ &nbsp; \[accept]
 
