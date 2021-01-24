@@ -13,11 +13,6 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 
 ## (2D)^2FPCA
 [(2D)^2FPCA](https://github.com/j1o2h3n/2D2FPCA) is a project that I completed in 2019 about image recognition and classification tasks of machine learning dimensionality reduction, written in Matlab language.
-<p align="center">
-  <img width="558" height="245" src=../images/(2D)2FPCA.png>
-</p>
-
-![avatar](../images/(2D)2FPCA.png){:height="245" width="558"}
 
 <div align=center><img width="558" height="245" src="../images/(2D)2FPCA.png"/></div>
 
@@ -25,6 +20,4 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 ## Finger vein
 [Finger vein](https://github.com/j1o2h3n/Finger_vein) is a simple finger vein skeleton extraction project based on digital image processing method that I completed in 2018. It is written by using C++ language to call OpenCV library.
 
-<p align="center">
-  <img width="768" height="243" src=../images/Overview.png>
-</p>
+<div align=center><img width="768" height="243" src="../images/Overview.png"/></div>
