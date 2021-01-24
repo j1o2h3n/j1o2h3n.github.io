@@ -19,6 +19,8 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 
 ![avatar](../images/(2D)2FPCA.png){:height="245" width="558"}
 
+<div align=center><img width="558" height="245" src="../images/(2D)2FPCA.png"/></div>
+
 
 ## Finger vein
 [Finger vein](https://github.com/j1o2h3n/Finger_vein) is a simple finger vein skeleton extraction project based on digital image processing method that I completed in 2018. It is written by using C++ language to call OpenCV library.
