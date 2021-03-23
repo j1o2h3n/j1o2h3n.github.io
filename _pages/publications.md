@@ -13,7 +13,7 @@ _30th International Joint Conference on Artificial Intelligence  (IJCAI-2021)_ &
 
 ## **Research on Low-Quality Finger Vein Image Recognition Algorithm**
 
-J Cai, _**X Jiang**_, X Wang, S Gao, J Peng.
+J Cai, X Wang, _**X Jiang**_, S Gao, J Peng.
 
 _International Conference on Smart Multimedia 2019  (ICSM-2019)_ &nbsp; \[accept]
 
