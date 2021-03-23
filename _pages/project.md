@@ -5,12 +5,12 @@ author_profile: true
 ---
 
 If you want to see more, please enter my [Github page](https://github.com/j1o2h3n).
-
+<!-- 
 ## DDSTGCN
 [DDSTGCN](https://github.com/j1o2h3n/DDSTGCN) is a deep learning model for traffic prediction proposed by me in 2020. The model has achieved state-of-the-art on six real-world public traffic datasets.
 
 <div align=center><img width="661" height="362" src="../images/DDSTGCN.png"/></div>
-
+-->
 
 ## (2D)^2FPCA
 [(2D)^2FPCA](https://github.com/j1o2h3n/2D2FPCA) is a project that I completed in 2019 about image recognition and classification tasks of machine learning dimensionality reduction, written in Matlab language.
