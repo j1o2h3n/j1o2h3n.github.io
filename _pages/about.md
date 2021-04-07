@@ -22,5 +22,5 @@ Prior to that, I got my bachelor's degree in Electrical Engineering and Automati
 
 Now, my research interests include Graph Neural Network and Intelligent Transportation.
 
-In my daily life, I like to play badminton and swimming.
+In my daily life, I like to play badminton and swimming, and my hobbies are Chess and Tetris.
 
