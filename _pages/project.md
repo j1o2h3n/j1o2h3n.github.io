@@ -14,7 +14,7 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 
 
 ## MRA-BGCN
-[MRA-BGCN](https://github.com/j1o2h3n/MRA-BGCN) is a traffic prediction deep learning model proposed in the AAAI2020 paper "Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting". I use the PyTorch framework to implement the model code.
+[MRA-BGCN](https://github.com/j1o2h3n/MRA-BGCN) is a traffic prediction deep learning model proposed in the AAAI-2020 paper "Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting". I use the PyTorch framework to implement the code of the model proposed in this paper.
 
 <div align=center><img width="726" height="431" src="../images/MRA-BGCN.jpg"/></div>
 
