@@ -11,7 +11,7 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 ## DDGCN
 DDGCN is a deep learning model for traffic prediction proposed by me in 2021. The model has achieved state-of-the-art on two real-world public traffic datasets.
 
-<div align=center><img width="785" height="227" src="../images/DDGCN.png"/></div>
+<div align=center><img width="658" height="413" src="../images/DDGCN.jpg"/></div>
 
 
 ## DDSTGCN
