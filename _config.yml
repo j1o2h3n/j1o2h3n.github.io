@@ -109,12 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/j1o2h3n_" #"replacethistwitterhandle"
+  twitter          : "j1o2h3n_" #"replacethistwitterhandle"
   vine             :
   weibo            : #"https://weibo.com/u/5595686334"
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/jxh-80-90"
 
 
 # Reading Files
