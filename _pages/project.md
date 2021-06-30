@@ -12,6 +12,12 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 <div align=center><img width="661" height="362" src="../images/DDSTGCN.png"/></div>
 -->
 
+
+## MRA-BGCN
+[MRA-BGCN](https://github.com/j1o2h3n/MRA-BGCN)is a traffic prediction deep learning model proposed in the AAAI2020 paper "Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting". I use the PyTorch framework to implement the model code.
+
+<div align=center><img width="581" height="345" src="../images/MRA-BGCN.jpg"/></div>
+
 ## (2D)^2FPCA
 [(2D)^2FPCA](https://github.com/j1o2h3n/2D2FPCA) is a project that I completed in 2019 about image recognition and classification tasks of machine learning dimensionality reduction, written in Matlab language.
 
