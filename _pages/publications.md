@@ -20,7 +20,7 @@ _The 30th ACM International Conference on Information and Knowledge Management  
 
 ## **Research on Low-Quality Finger Vein Image Recognition Algorithm**
 
-J Cai, X Wang, _**X Jiang**_, S Gao, J Peng.
+J Cai, _**X Jiang**_, X Wang, S Gao, J Peng.
 
 _International Conference on Smart Multimedia 2019  (ICSM-2019)_ &nbsp; \[accept]
 
