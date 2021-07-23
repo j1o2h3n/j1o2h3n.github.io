@@ -8,6 +8,13 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 
 <!-- 
 -->
+## RNNs
+[RNNs](https://github.com/j1o2h3n/RNNs) are a series of recurrent neural networks that I implemented based on Pytorch. I did not call the original library functions. I implemented three deep learning models of RNN, LSTM, and GRU by hand, and performed sequence task prediction experiments.
+
+<div align=center><img width="787" height="250" src="../images/RNNs.jpg"/></div>
+</p>
+
+
 ## DDGCN
 DDGCN is a deep learning model for traffic prediction proposed by me in 2021. The model has achieved state-of-the-art on two real-world public traffic datasets.
 
