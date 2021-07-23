@@ -8,11 +8,16 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 
 <!-- 
 -->
+
+## STSGCN
+[STSGCN](https://github.com/j1o2h3n/STSGCN) is a traffic prediction deep learning model proposed in the AAAI-2020 paper "Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting". I use the PyTorch framework to implement the code of the model proposed in this paper.
+
+<div align=center><img width="910" height="357" src="../images/STSGCN.jpg"/></div>
+
 ## RNNs
 [RNNs](https://github.com/j1o2h3n/RNNs) are a series of recurrent neural networks that I implemented based on Pytorch. I did not call the original library functions. I implemented three deep learning models of RNN, LSTM, and GRU by hand, and performed sequence task prediction experiments.
 
 <div align=center><img width="787" height="250" src="../images/RNNs.jpg"/></div>
-</p>
 
 
 ## DDGCN
