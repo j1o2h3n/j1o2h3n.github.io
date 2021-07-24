@@ -9,6 +9,11 @@ If you want to see more, please enter my [Github page](https://github.com/j1o2h3
 <!-- 
 -->
 
+## Data Analysis
+[Data Analysis](https://github.com/j1o2h3n/Data-Analysis) is a project that analyzes the composition of river samples and predicts the content of seaweed in the river. The programming language is R. The analysis methods used include regression analysis, principal component analysis, factor analysis and cluster analysis.
+
+<div align=center><img width="921" height="493" src="../images/Data-Analysis.jpg"/></div>
+
 ## STSGCN
 [STSGCN](https://github.com/j1o2h3n/STSGCN) is a traffic prediction deep learning model proposed in the AAAI-2020 paper "Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting". I use the PyTorch framework to implement the code of the model proposed in this paper.
 
