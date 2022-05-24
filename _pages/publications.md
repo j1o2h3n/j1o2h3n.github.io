@@ -6,7 +6,7 @@ author_profile: true
 
 ## **Dual Dynamic Spatial-Temporal Graph Convolution Network for Traffic Prediction**
 
-Y Sun, _**X Jiang**_, Y Hu, K Guo, B Wang, J Gao, B Yin.
+Y Sun, _**X Jiang**_, Y Hu,F Duan, K Guo, B Wang, J Gao, B Yin.
 
 _IEEE Transactions on Intelligent Transportation Systems  (IEEE TITS)_ &nbsp; \[under review]
 
