@@ -16,7 +16,7 @@ redirect_from:
 
 ## About Me
 
-I am currently an algorithm engineer at the Software Development Center of the People's Bank Of China. I graduated from Beijing Institute of Artificial Intelligence, Faculty of Information Technology, Beijing University of Technology (BJUT) with a master's degree, in 2022. I used to be a member of Beijing Key Laboratory of Multimedia and Intelligent Software Technology, and my tutors are Prof. Yanfeng Sun and Prof. Yongli Hu.
+I am currently an algorithm engineer at the Software Development Center of the People's Bank Of China. I will graduated from Beijing Institute of Artificial Intelligence, Faculty of Information Technology, Beijing University of Technology (BJUT) with a master's degree, in 2022. I used to be a member of Beijing Key Laboratory of Multimedia and Intelligent Software Technology, and my tutors are Prof. Yanfeng Sun and Prof. Yongli Hu.
 
 <!--
 I am a second-year M.S. student in the Beijing Institute of Artificial Intelligence, Faculty of Information Technology, Beijing University of Technology (BJUT). Currently I am a member of Beijing Key Laboratory of Multimedia and Intelligent Software Technology, and my tutors are Prof. Yanfeng Sun and Prof. Yongli Hu.
