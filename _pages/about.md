@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Email: jiangxiangheng\[at]gmail\[dot]com
-- Major: Control Science and Engineering
+<!-- - Major: Control Science and Engineering -->
 - Github: https://github.com/j1o2h3n
 
 
