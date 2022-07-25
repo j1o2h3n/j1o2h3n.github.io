@@ -24,7 +24,11 @@ I am a second-year M.S. student in the Beijing Institute of Artificial Intellige
 
 Prior to that, I got my bachelor's degree in Electrical Engineering and Automation from the School of Electronic Science and Control Engineering, Institute of Disaster Prevention, University of Emergency Management, in 2019. In addition, I also studied Geology from the School of Earth Science for a period of time.
 
+Now, my research interests include Artificial Intelligence and Deep Learning.
+
+<!--
 Now, my research interests include Graph Neural Network and Intelligent Transportation.
+-->
 
 In my daily life, I like to play badminton and swimming, and my hobbies are Chess and Tetris.
 
