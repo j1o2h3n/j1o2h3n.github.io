@@ -8,7 +8,7 @@ author_profile: true
 
 Y Sun, _**X Jiang**_, Y Hu, F Duan, K Guo, B Wang, J Gao, B Yin.
 
-<!-- _IEEE Transactions on Intelligent Transportation Systems  (IEEE TITS)_ &nbsp; \-->[under review]
+ _IEEE Transactions on Intelligent Transportation Systems  (IEEE TITS)_ &nbsp; \[accept]
 
 
 ## **Dynamic Diffusion Graph Convolution Network for Traffic Prediction**
