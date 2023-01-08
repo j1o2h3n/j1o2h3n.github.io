@@ -34,7 +34,7 @@ DDGCN is a deep learning model for traffic prediction proposed during my interns
 ## DDSTGCN
 [DDSTGCN](https://github.com/j1o2h3n/DDSTGCN) is a deep learning model for traffic prediction proposed by me in 2020. The model has achieved state-of-the-art on six real-world public traffic datasets.
 
-<div align=center><img width="708" height="260" src="../images/DDSTGCN.jpg"/></div>
+<div align=center><img width="826" height="303" src="../images/DDSTGCN.jpg"/></div>
 
 ## MRA-BGCN
 [MRA-BGCN](https://github.com/j1o2h3n/MRA-BGCN) is a traffic prediction deep learning model proposed in the AAAI-2020 paper "Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting". I use the PyTorch framework to implement the code of the model proposed in this paper.
