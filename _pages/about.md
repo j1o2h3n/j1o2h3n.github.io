@@ -30,6 +30,6 @@ Now, my research interests include Artificial Intelligence and Deep Learning.
 Now, my research interests include Graph Neural Network and Intelligent Transportation.
 -->
 
-In my daily life, I like to play badminton and swimming, and my hobbies are Chess and Tetris.
+In my daily life, I like to play badminton, running and swimming, and my hobbies are Chess and Tetris.
 
 
